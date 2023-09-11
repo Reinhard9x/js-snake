@@ -1,0 +1,9 @@
+#mycanvas{
+    border: 1px;
+    border-style: solid;
+}
+/*center everything*/
+#mydiv{
+    width: fit-content;
+    margin: auto;
+}
